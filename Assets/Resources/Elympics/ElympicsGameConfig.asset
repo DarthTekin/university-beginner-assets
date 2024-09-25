@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3718fdc79f884b648722df4e56317063, type: 3}
   m_Name: ElympicsGameConfig
   m_EditorClassIdentifier: 
-  gameName: ElympicsFullGameCourse_07.08.2024
-  gameId: 8a6e784f-9df1-4bb2-8e76-7a82c93a058e
+  gameName: ElympicsFullGameCourseUpdate_23.08.2024
+  gameId: c22920a3-5c3e-406d-9e3a-0d98a9391996
   gameVersion: 1
   players: 2
   gameplayScene: Assets/Scenes/GameplayScene.unity
